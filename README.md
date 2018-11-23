@@ -27,6 +27,7 @@ _So far, I am unaware of a method to automate this process. Also, please not a f
  * Open **Settings**
  * Navigate to **Themes** tab
  * Press the **+** button to add new theme
+ * Use the preferences below for the appropriate theme.
 
 #### Dark theme
 
