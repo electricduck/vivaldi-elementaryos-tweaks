@@ -10,6 +10,7 @@
 
 ```
 $ git clone https://github.com/electricduck/vivaldi-elementaryos-tweaks
+$ cd vivaldi-elementaryos-tweaks
 $ chmod +x install.sh
 ```
 
