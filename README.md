@@ -29,15 +29,15 @@ _So far, I am unaware of a method to automate this process. Also, please not a f
 
 #### Dark theme
 
- * **Background**: `#373D40`
- * **Foreground**: `#ECECEC`
- * **Highlight**: `#DBDBDB`
- * **Accent**: `#C83838`
- * **Theme Preferences**:
-   * **Accent Colour from Active Page**: `[✓]`
-   * **Apply Accent Colour to Window**: `[ ]`
-   * **Transparent Tabs**: `[ ]`
-   * **Corner Rounding**: `4px`
+ * Background: `#373D40`
+ * Foreground: `#ECECEC`
+ * Highlight: `#DBDBDB`
+ * Accent: `#C83838`
+ * Theme Preferences:
+   * Accent Colour from Active Page: `[✓]`
+   * Apply Accent Colour to Window: `[ ]`
+   * Transparent Tabs: `[ ]`
+   * Corner Rounding: `4px`
 
 #### Light theme
 
